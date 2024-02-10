@@ -48,6 +48,9 @@ img {
   color: #404bbf;
 }
 
+.header-address {
+  font-style: normal;
+}
 .address-link {
   font-size: 16px;
   line-height: 1.5;
@@ -80,7 +83,7 @@ img {
 
 .button-service-title {
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -103,7 +106,7 @@ img {
 
 /*===========Section 1=======*/
 
-.advantages-title {
+.advantages-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
