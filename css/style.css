@@ -13,13 +13,6 @@ ul {
   list-style-type: none;
 }
 
-button {
-  cursor: pointer;
-}
-
-img {
-  display: block;
-}
 /*========Top Line=======*/
 
 .logo {
@@ -97,6 +90,7 @@ img {
   color: #fff;
   background: #4d5ae5;
   font-family: inherit;
+  cursor: pointer;
 }
 
 .button-service:hover,
